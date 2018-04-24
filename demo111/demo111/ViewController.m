@@ -21,6 +21,8 @@
     NSLog(@"aaa");
     
     NSLog(@"添加github到服务器上");
+    
+    NSLog(@"不保存不能上传。");
 }
 
 
