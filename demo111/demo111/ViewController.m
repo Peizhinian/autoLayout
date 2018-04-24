@@ -19,6 +19,8 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     NSLog(@"aaa");
+    
+    NSLog(@"添加github到服务器上");
 }
 
 
